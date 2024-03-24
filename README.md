@@ -1,4 +1,4 @@
-# JJIM Data Science – Computer Vision
+# Histopathological Image Classification
 
 This repository contains code for the MHIST image classification project, where the primary model utilized is ResNet-18. The project involves training a classifier to predict whether an image belongs to one of two classes: Hyperplastic Polyp (HP) or Sessile Serrated Adenoma (SSA). Implemented two strategies to address the imbalanced dataset: under-sampling and weighted random sampling.
 
